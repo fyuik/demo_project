@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +11,6 @@
     <h1>Hello Php Munja</h1>
 </body>
 </html>
+=======
+
+>>>>>>> 958a6d483fd5982af83c8f02d3a3fd8aca3cd8c9
